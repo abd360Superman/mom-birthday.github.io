@@ -1,0 +1,47 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-size: cover;
+}
+
+.header, .details, #smd_div {
+    width: 98%;
+    margin: 15px;
+    border-radius: 10px; 
+}
+
+.ename {
+    float: left;
+    margin-bottom: 5px;
+}
+
+#smd_div {
+    text-align: left;
+    height: 30%;
+    overflow: scroll;
+}
+
+li {
+    list-style: none;
+}
+
+canvas {
+    border: 2px black dashed;
+    margin-bottom: 15px;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes example {
+    from{box-shadow: 1px 1px 38px red;}
+    to{box-shadow: 1px 1px 38px yellow;}
+}
+
+#filter_div {
+    position: relative;
+    left: 48%;
+    text-align: center;
+}
