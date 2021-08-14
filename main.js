@@ -2,7 +2,7 @@ const data = [
     {
         name: 'Midnight Celebration!',
         details: ['Hukka', 'Chocolate mousse bowl', 'Sushi cake', 'Rose wine', 'Cocktails and mocktails', 'Tequilla shots', 'Tit bits', 'Dimsums'],
-        startTime: [2021, 7, 14, 00, 00]
+        startTime: [2021, 7, 14, 23, 59]
     },
     {
         name: 'Bed Tea',
