@@ -6,7 +6,7 @@ body {
     background-size: cover;
 }
 
-.header, .details, #smd_div {
+.header, .details, #smd_div, .rules {
     width: 98%;
     margin: 15px;
     border-radius: 10px; 
