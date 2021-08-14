@@ -2,12 +2,12 @@ const data = [
     {
         name: 'Midnight Celebration!',
         details: ['Hukka', 'Chocolate mousse bowl', 'Sushi cake', 'Rose wine', 'Cocktails and mocktails', 'Tequilla shots', 'Tit bits', 'Dimsums'],
-        startTime: [2021, 7, 14, 23, 15]
+        startTime: [2021, 7, 14, 22, 30]
     },
     {
         name: 'Bed Tea',
-        details: ['Tea', 'Biscuits'],
-        startTime: [2021, 7, 15, 8, 30]
+        details: ['No entry in Kitchen for the day', 'Tea', 'Biscuits'],
+        startTime: [2021, 7, 15, 7, 30]
     },
     {
         name: 'Breakfast',
