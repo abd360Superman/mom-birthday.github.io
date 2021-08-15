@@ -22,17 +22,17 @@ const data = [
     {
         name: 'Lunch',
         details: ['Ceaser Salad', 'Dehli style Hakka Noodles', 'Thai Green Curry Rice', 'Desert', 'Exotic Vegetable in Chilli Oyster Sauce', 'Tacos with Avacado Filling', 'Baked Pasta with Garlic Bread'],
-        startTime: [2021, 7, 15, 13, 45]
+        startTime: [2021, 7, 15, 16, 00]
     },
     {
         name: 'Snacks',
         details: ['Bhel Puri', 'Paani Puri'],
-        startTime: [2021, 7, 15, 16, 45]
+        startTime: [2021, 7, 15, 18, 30]
     },
     {
         name: 'Dinner',
         details: ['Stuffed Naan'],
-        startTime: [2021, 7, 15, 20, 30]
+        startTime: [2021, 7, 15, 22, 30]
     }
 ]
 
