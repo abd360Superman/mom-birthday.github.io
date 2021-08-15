@@ -16,22 +16,22 @@ const data = [
     },
     {
         name: 'Breakfast',
-        details: ['Poha', 'Bun Maska'],
+        details: ['Poha', 'Bun Maska', 'Pakoda', 'Vada Pav'],
         startTime: [2021, 7, 15, 9, 45]
     },
     {
         name: 'Lunch',
-        details: ['Ceaser Salad', 'Dehli style Hakka Noodles', 'Thai Green Curry Rice', 'Desert', 'Exotic Vegetable in Chilli Oyster Sauce', 'Tacos with Avacado Filling', 'Baked Pasta with Garlic Bread'],
+        details: ['Ceaser Salad', 'Thai Green Curry Rice', 'Baked Pasta with Garlic Bread'],
         startTime: [2021, 7, 15, 16, 00]
     },
     {
         name: 'Snacks',
-        details: ['Bhel Puri', 'Paani Puri'],
+        details: ['Tacos with Avacado Filling', 'Hummus and Pita Bread'],
         startTime: [2021, 7, 15, 18, 30]
     },
     {
-        name: 'Dinner',
-        details: ['Stuffed Naan'],
+        name: 'Dinner from Maa and Baba',
+        details: ['Dehli style Hakka Noodles', 'Exotic Vegetable in Chilli Oyster Sauce', 'Desert'],
         startTime: [2021, 7, 15, 22, 30]
     }
 ]
